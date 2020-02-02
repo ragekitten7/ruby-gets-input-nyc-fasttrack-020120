@@ -6,3 +6,9 @@ puts "Hi! Welcome to the wonderful world of Ruby programming."
 puts "Please enter your name so that we can greet you more personally:"
 butts_blaster = gets.strip
 greeting(butts_blaster)
+puts "Would you like to hear a joke?"
+puts "Click anything because you can't say no!"
+chicken_joke = "Why did the chicken cross the road."
+tell_a_joke(chicken_joke)
+put "HAHAHAHAHAHA"
+end
