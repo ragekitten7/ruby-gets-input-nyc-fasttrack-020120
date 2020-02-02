@@ -11,4 +11,3 @@ puts "Click anything because you can't say no!"
 chicken_joke = "Why did the chicken cross the road."
 tell_a_joke(chicken_joke)
 put "HAHAHAHAHAHA"
-end
