@@ -3,5 +3,5 @@ def greeting(name)
 end
 
 def tell_a_joke(please_laugh)
-  put "To get to the other side!!!!"
+  puts "To get to the other side!!!!"
 end
